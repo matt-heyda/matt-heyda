@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matt</h1>
+<h1 align="center">Hi, I'm Matt</h1>
 <h3 align="center">I'm an aspiring data analyst from the UK.</h3>
 
 - 🌱 I’m currently learning **SQL, Excel, Power BI, Python**
